@@ -23,11 +23,13 @@ msgid ""
 "This page is currently being edited by %(name_and_email)s. Please wait for "
 "the lock to be lifted."
 msgstr ""
+"Esta página está siendo editada actualmente por %(name_and_email)s. Por favor espera a que "
+"se libere el bloqueo."
 
 #: admin_locking/admin.py:50
 msgid "Page lock has been lifted!"
-msgstr ""
+msgstr "El bloqueo de la página ha sido liberado."
 
 #: admin_locking/admin.py:51
 msgid "Click here to edit"
-msgstr ""
+msgstr "Haz clic aquí para editar"
